@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener", "UrlShortener\UrlShortener.csproj", "{2D67A349-ACD3-4164-84C0-18F7282588B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{3C004A2C-8079-41FB-B779-2BE825C843DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.MySQL", "DAL.MySQL\DAL.MySQL.csproj", "{8012BE17-8A56-400B-91F8-B8A946792385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D67A349-ACD3-4164-84C0-18F7282588B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D67A349-ACD3-4164-84C0-18F7282588B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D67A349-ACD3-4164-84C0-18F7282588B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D67A349-ACD3-4164-84C0-18F7282588B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C004A2C-8079-41FB-B779-2BE825C843DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C004A2C-8079-41FB-B779-2BE825C843DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C004A2C-8079-41FB-B779-2BE825C843DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C004A2C-8079-41FB-B779-2BE825C843DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8012BE17-8A56-400B-91F8-B8A946792385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8012BE17-8A56-400B-91F8-B8A946792385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8012BE17-8A56-400B-91F8-B8A946792385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8012BE17-8A56-400B-91F8-B8A946792385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
